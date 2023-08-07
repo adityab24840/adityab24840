@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: <br>Linkedin : [Aditya N Bhatt](https://www.linkedin.com/in/adityabhatt015/) <br>
 - 😄 Pronouns: he/him
-- - ⚡ Fun fact: I like to experiment different domains 
+- ⚡ Fun fact: I like to experiment different domains 
 <!--
 **adityab24840/adityab24840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
