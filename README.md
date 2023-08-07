@@ -1,8 +1,11 @@
-### Hi there 👋 
+## Hola Hello Bonjour Olá Namashkar !!!!!! 👋
+# Hi there 👋 
 My name's Aditya N Bhatt.
-A Dev lost in this beautiful world of weird codes.
 
-- 📫 How to reach me: https://www.linkedin.com/in/adityabhatt015/
+##A Dev lost in this beautiful world of weird codes.
+
+
+- 📫 How to reach me: <br>Linkedin : [Aditya N Bhatt](https://www.linkedin.com/in/adityabhatt015/) <br>
 - 😄 Pronouns: he/him
 - - ⚡ Fun fact: I like to experiment different domains 
 <!--
