@@ -4,6 +4,7 @@ A Dev lost in this beautiful world of weird codes.
 
 - 📫 How to reach me: https://www.linkedin.com/in/adityabhatt015/
 - 😄 Pronouns: he/him
+- - ⚡ Fun fact: I like to experiment different domains 
 <!--
 **adityab24840/adityab24840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
