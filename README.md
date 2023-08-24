@@ -35,6 +35,7 @@
 <BR>
   
 <p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab24840&label=Profile%20views&color=0e75b6&style=flat" alt="adityab24840" /> </p>
     <img class="center" alt="Aditya N Bhatt's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=adityab24840.adityab24840 /">
 </p>
 
