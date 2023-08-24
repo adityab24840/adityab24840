@@ -1,7 +1,7 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Aditya N Bhatt! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Aditya N Bhatt! <img src="https://giphy.com/gifs/thread-edition-hyper-YTtqB2j5EN7IA/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### I am a Ariticial Intelligence & Machine Learning Post Graduate student @ Manipal School of Information Sciences(MSIS),MAHE 👨‍🎓🏫 <img src="https://giphy.com/gifs/StaffsUni-university-studying-staffordshire-8t7lXR6Sep8zB6v7El" width="50"> 
+### I am a Ariticial Intelligence & Machine Learning Post Graduate student @ Manipal School of Information Sciences(MSIS),MAHE 👨‍🎓🏫 <img src="https://giphy.com/gifs/StaffsUni-university-studying-staffordshire-8t7lXR6Sep8zB6v7El/giphy.gif" width="50">  
 
 - 🔭 I’m currently working on -  🤓
 - 👯 I’m looking to collaborate on - OS, ML, Research Papers
