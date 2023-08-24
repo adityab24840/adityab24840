@@ -1,10 +1,5 @@
 <h2 align="left"><h2 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif"height="45" width="45" />, I'm Aditya N Bhatt! <br>I am Ariticial Intelligence & Machine Learning(AI&ML) Post Graduate student @ Manipal School of Information Sciences (MSIS), MAHE 👨‍🎓🏫<br><br>🔭 I’m currently working on - ML 🤓<br>👯 I’m looking to collaborate on - OS, ML, Research Papers<br>💬 Ask me about - Anything 🤫<br>⚡ Fun fact: I love to explore different domains 🫡<br><br><!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]<br>[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]--><br><br><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> 😊</em></h2></h2>
 
-###
-
-<p align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b> 😊</em></h2></p>
-
-###
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=adityan24840@gmail.com.com&su=SUBJECT&body=BODY&tf=1" target="_blank">
