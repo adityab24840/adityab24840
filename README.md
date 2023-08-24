@@ -51,17 +51,11 @@
 
 <p align="center">
 <a href="https://github.com/adityab24840">
-  <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=adityab24840" &theme=radical />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab24840"&show_icons=true&theme=radical&count_private=true&icon_color=439975&text_color=6e6e6e alt="adityab24840's github stats"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityab24840&show_icons=true&locale=en&layout=compact" alt="adityab24840" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab24840&show_icons=true&locale=en" alt="adityab24840" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityab24840&" alt="adityab24840" /></p> 
 </a></p>
 <br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityab24840&show_icons=true&locale=en&layout=compact" alt="adityab24840" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab24840&show_icons=true&locale=en" alt="adityab24840" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityab24840&" alt="adityab24840" /></p>
 
 
 <!--🌟 From [Aditya N Bhatt](https://github.com/adityab24840)-->
