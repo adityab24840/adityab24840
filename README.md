@@ -67,8 +67,10 @@
 
 <h3 
   <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=adityab24840.adityab24840&left_color=darkkhaki&right_color=lightslategrey&left_text=Github Profile Visits"  />
-  </div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adityab24840.adityab24840&left_color=navy&right_color=lightgrey&left_text=Github Profile Visits (Overall)"  />
+</div>
+
+###
 </h3>
 
 ###
