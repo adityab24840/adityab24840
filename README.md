@@ -37,7 +37,7 @@
 <BR>
   
 <p>
-    <img class="center" alt="Aditya N Bhatt's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=adityab24840.adityab24840"/>
+    <img class="center" alt="Aditya N Bhatt's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=adityab24840.adityab24840">
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
