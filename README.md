@@ -35,10 +35,7 @@
 <BR>
   
 <p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab24840&label=Profile%20views&color=0e75b6&style=flat" alt="adityab24840" /> </p>
-    <img class="center" alt="Aditya N Bhatt's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=adityab24840.adityab24840 /">
-</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityab24840&label=Profile%20views&color=0e75b6&style=flat" alt="adityab24840" /> </p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -53,9 +50,9 @@
 
 <p align="center">
 <a href="https://github.com/adityab24840">
-  <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=adityab24840" &theme=dark />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityab24840&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" theme=radical />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab24840&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="adityab24840's github stats" theme=radical />
+  <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=adityab24840" &theme=radical />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityab24840&show_icons=true&theme=radical&count_private=true&icon_color=439975&text_color=6e6e6e" alt="adityab24840's github stats"/>
+  <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=adityab24840&count_private=true&theme=radical&show_icons=true" />
 </a></p>
 <br>
 
