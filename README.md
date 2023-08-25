@@ -86,15 +86,15 @@
 <!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
-
-![snake animation](https://github.com/adityab24840/adityab24840/blob/output/github-contribution-grid-snake2.svg)
+<!-- 
+![snake animation](https://github.com/adityab24840/adityab24840/blob/output/github-contribution-grid-snake2.svg) -->
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://open.spotify.com/user/21b5y5ykev5o5jehj7n5cgnya">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
