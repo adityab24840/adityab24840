@@ -19,9 +19,6 @@ Open to collaborations on research, operating systems, and AI tooling.<br>
   <a href="https://www.linkedin.com/in/adityabhatt015" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.instagram.com/aditya.io.xyz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
   <a href="https://dev.to/chingiiiix" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" />
   </a>
