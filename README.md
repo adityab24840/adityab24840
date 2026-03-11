@@ -26,7 +26,7 @@ Feel free to connect or reach out, I'm always keen on exploring new ideas.
 
 ---
 
-<h2 align="center">🛠 Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -43,10 +43,10 @@ Feel free to connect or reach out, I'm always keen on exploring new ideas.
 
 ---
 
+<h2 align="center">GitHub Metrics</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityab24840&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=adityab24840&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityab24840&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github.com/adityab24840/adityab24840/blob/main/github-metrics.svg" alt="Metrics" />
 </div>
 
 <div align="center">
