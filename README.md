@@ -1,13 +1,13 @@
 <h2 align="left">Hello, I'm <strong>Aditya N Bhatt</strong></h2>
 
 <p align="left">
-I'm a postgraduate student specializing in <strong>Artificial Intelligence & Machine Learning</strong> at <em>Manipal School of Information Sciences, MAHE</em>. My interests span applied machine learning, systems design, and open-source contributions.
+I'm a postgraduate student specializing in <strong>Artificial Intelligence & Machine Learning</strong> at <em>Manipal School of Information Sciences, MAHE</em>. My interests span <strong>Deep Learning, Machine Learning, Gen AI, and Systems Programming</strong>.
 </p>
 
 <p align="left">
-Currently working on Gen AI projects focused on public healthcare.<br>
-Open to collaborations on research, operating systems, and AI tooling.<br>
-📫Feel free to connect or reach out, I’m always keen on exploring new ideas.
+Currently working on <strong>Gen AI projects</strong> focused on public healthcare.<br>
+Open to collaborations on research, operating systems (Shell/Linux), and AI tooling.<br>
+Feel free to connect or reach out, I'm always keen on exploring new ideas.
 </p>
 
 ---
@@ -29,16 +29,16 @@ Open to collaborations on research, operating systems, and AI tooling.<br>
 <h2 align="center">🛠 Languages & Tools</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
 </div>
 
 ---
